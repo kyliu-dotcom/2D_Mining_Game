@@ -1,4 +1,4 @@
-2D Mining Adventure
+**2D Mining Adventure**
 
 ## 📌 Project Description
 This project is a 2D grid-based adventure game written using Python where the player explores an ever-changing maze in search of treasure.
