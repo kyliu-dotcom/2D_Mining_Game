@@ -1,8 +1,7 @@
-# 🧭 Labyrinth
+2D Mining Adventure
 
 ## 📌 Project Description
-
-**Labyrinth** is a 2D grid-based adventure game where the player explores an ever-changing maze in search of treasure.
+This project is a 2D grid-based adventure game written using Python where the player explores an ever-changing maze in search of treasure.
 
 The player controls an adventurer sprite who can mine blocks, collect currency, and use keys to unlock doors. Progression is based on exploration, resource collection, and navigating through the maze efficiently.
 
