@@ -1,9 +1,9 @@
-**2D Mining Adventure**
+# 2D Mining Adventure
 
 ## 📌 Project Description
 This project is a 2D grid-based adventure game written using Python where the player explores an ever-changing maze in search of treasure.
 
-The player controls an adventurer sprite who can mine blocks, collect currency, and use keys to unlock doors. Progression is based on exploration, resource collection, and navigating through the maze efficiently.
+The player controls an adventurer sprite who can mine blocks, collect currency, and use keys to unlock doors. Progression is based on exploration, resource collection, and navigating through the maze.
 
 The main objective is to reach the treasure chest at the end of the map as quickly as possible. The game tracks completion time, allowing players to measure improvement across multiple playthroughs.
 
@@ -56,4 +56,4 @@ Install via pip:
 
 ```bash
 pip install Pillow
-
+```
